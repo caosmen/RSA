@@ -49,7 +49,7 @@ Dictionary: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W,
 
 * **Bruno Lemos** - [Profile](https://github.com/CaosMen)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/CaosMen/RSA/contributors) who participated in this project.
 
 ## License
 
